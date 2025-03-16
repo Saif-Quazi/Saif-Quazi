@@ -9,7 +9,7 @@
 
 <p style="text-align: center; padding-inline: 30px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,py,p5js,md,svg,vscode,codepen,replit,netlify,webflow,github,git,npm,dotnet,windows,appwrite,arduino,gmail,instagram,notion,discord,robloxstudio&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,py,react,vite,p5js,md,svg,windows,vscode,codepen,replit,netlify,github,git,npm,dotnet,webflow,stackoverflow,gmail,instagram,notion,arduino&perline=12" />
   </a>
 </p>
 
