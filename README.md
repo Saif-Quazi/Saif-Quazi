@@ -1,4 +1,5 @@
-<link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=VT323&display=swap" rel="stylesheet">
+## Hi there! 👋
+<!-- <link href="https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=VT323&display=swap" rel="stylesheet">
 
 <a href="https://saifq.co/" target="_blank" style="outline: 0; margin: 35px; display: flex; justify-content: center; align-items: center;">
 <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=600&size=25&duration=3000&pause=2000&color=22F888&center=true&vCenter=true&width=400&height=100&lines=Hi%2C+I'm+Saif+Quazi;I'm+a+web+developer+and+designer!;Tap+here+to+visit+my+site!" alt="Typing SVG" />
@@ -97,4 +98,4 @@
             rotate: 0deg;
         }
     }
-</style>
+</style> -->
