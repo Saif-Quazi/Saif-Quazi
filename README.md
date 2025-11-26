@@ -7,16 +7,12 @@
   </a>
 </div>
 
-<br>
-
-<h4 align="center"><b>Frontend Skills<img width="40%">Backend Skills</b></h4>
+<h4 align="center"><b>Frontend Skills<img src="blank.png" width="40%">Backend Skills</b></h4>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,space,p5js,svg,md,space&perline=4" height="100" width="45%"/>
     <img src="https://skillicons.dev/icons?i=space,sqlite,nodejs,python,space&perline=4" height="100" width="45%"/>
 </div>
-
-<br>
 
 <div align="center">
     <h4><b>Tools / Platforms</b></h4>
